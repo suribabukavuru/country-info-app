@@ -6,7 +6,6 @@ A responsive React application that allows users to search and explore comprehen
 
 - **🔍 Search Functionality**: Search countries by name with real-time filtering
 - **🗺️ Interactive Interface**: Clean and responsive design using Bootstrap 5
-- **📱 Mobile Responsive**: Optimized for all device sizes
 - **🏳️ Country Details**: Display flags, capitals, population, area, languages, and currencies
 - **🌎 Regional Filtering**: Filter countries by continent/region
 - **⚡ Fast Performance**: Efficient API calls with optimized rendering
@@ -155,10 +154,6 @@ npm run deploy
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 👨‍💻 Author
 
 **Suribabu Kavuru**
@@ -172,20 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Bootstrap](https://getbootstrap.com/) for the responsive framework
 - [React](https://reactjs.org/) community for excellent documentation
 - All contributors and users who provide feedback
-
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop-view.png)
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile-view.png)
-
-### Search Functionality
-![Search Screenshot](./screenshots/search-feature.png)
-
 ---
-
 ⭐ **Star this repository** if you found it helpful!
 
 🔗 **Live Demo**: [Country Info App](https://your-deployed-app-url.com)
